@@ -279,7 +279,7 @@
 	#define MSG_RESTORE_FAILSAFE "Ustawienia fabryczne"
 	#define MSG_REFRESH "\004Odswiez"
 	#define MSG_WATCH "Ekran glowny"
-	#define MSG_PREPARE "Przygotuj"
+	#define MSG_PREPARE "Przygotowanie"
 	#define MSG_CONTROL "Ustawienia"
 	#define MSG_TUNE "Strojenie"
 	#define MSG_PAUSE_PRINT "Pauza"
